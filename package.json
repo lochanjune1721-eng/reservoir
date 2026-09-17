@@ -1,0 +1,17 @@
+{
+  "name": "reservoir-launch-brief",
+  "version": "1.0.0",
+  "description": "Reservoir Launch Brief interactive website and narrative playbooks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "reservoir",
+    "launch-brief",
+    "cell-preservation"
+  ],
+  "author": "",
+  "license": "ISC"
+}
