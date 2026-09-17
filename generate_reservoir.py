@@ -136,7 +136,7 @@ There is only one catch nobody talks about:
 When miraculous cellular reprogramming and personalized therapies arrive in 2040... you won&#x27;t have the cells you have today.
 
 Introducing Reservoir. Consumer infrastructure for human cellular preservation.
-15-minute blood draw → cell isolation → cryogenic preservation for decades.
+15-minute blood draw  to  cell isolation  to  cryogenic preservation for decades.
 
 Don&#x27;t just survive the transition to the future. Make sure your biology is there to live it.</div>
       <div class="media quote-card">
@@ -186,7 +186,7 @@ Don&#x27;t just survive the transition to the future. Make sure your biology is 
 
     <div class="n">
       <h3>3. The founder story: she spent years figuring out what we can do with cells</h3>
-      <p>Physics at Harvard → laser biophysics → loss of grandmother → cellular reprogramming → building Cellino to automate cell therapies.</p>
+      <p>Physics at Harvard  to  laser biophysics  to  loss of grandmother  to  cellular reprogramming  to  building Cellino to automate cell therapies.</p>
       <p class="so"><b>So, for Reservoir:</b> The person who spent a decade mastering how to manipulate human cells realized the ultimate limiting factor: if you don&#x27;t save your younger cells now, future medicine won&#x27;t have pristine raw material.</p>
     </div>
 
@@ -217,7 +217,7 @@ Don&#x27;t just survive the transition to the future. Make sure your biology is 
     <div class="n">
       <h3>8. The infrastructure story: ASML for biology</h3>
       <p>ASML didn&#x27;t invent silicon. AWS didn&#x27;t invent the internet. Reservoir didn&#x27;t invent liquid nitrogen or cell separation.</p>
-      <p class="so"><b>So, for Reservoir:</b> Reservoir engineered the end-to-end consumer network: 15-minute blood draw → cold chain → cellular isolation → cryogenic banking. The infrastructure is the product.</p>
+      <p class="so"><b>So, for Reservoir:</b> Reservoir engineered the end-to-end consumer network: 15-minute blood draw  to  cold chain  to  cellular isolation  to  cryogenic banking. The infrastructure is the product.</p>
     </div>
 
     <div class="n">
@@ -232,7 +232,7 @@ Don&#x27;t just survive the transition to the future. Make sure your biology is 
     <ol>
       <li><a href="#a1" data-tab="a1"><b>Angle 1. AI Doomers:</b></a> Everyone is asking whether AI will destroy humanity. What if slowing AI means stopping the technology that could cure diseases and save millions of lives? Dario himself has argued AI could cure most major diseases. That&#x27;s the debate Reservoir enters.</li>
       <li><a href="#a2" data-tab="a2"><b>Angle 2. Billionaires:</b></a> Everyone is obsessed with billionaires building bunkers and preparing for the future. What are the people with unlimited money actually doing? What if preserving biology is what you must do before tech arrives?</li>
-      <li><a href="#a3" data-tab="a3"><b>Angle 3. Founder:</b></a> She spent years learning how to manipulate human cells. Then realized we needed to preserve them. Physics → lasers → biology → Cellino → personalized medicine → Reservoir.</li>
+      <li><a href="#a3" data-tab="a3"><b>Angle 3. Founder:</b></a> She spent years learning how to manipulate human cells. Then realized we needed to preserve them. Physics  to  lasers  to  biology  to  Cellino  to  personalized medicine  to  Reservoir.</li>
       <li><a href="#a4" data-tab="a4"><b>Angle 4. Research:</b></a> Don&#x27;t use rejuvenation papers as proof. Build a research series specifically around cell aging, immune-cell preservation, cryopreservation, viability, and future biological banking.</li>
       <li><a href="#a5" data-tab="a5"><b>Angle 5. Bryan Johnson:</b></a> Everyone makes fun of Bryan Johnson. We ask: what if he&#x27;s right? He made biological aging a public experiment. Wouldn&#x27;t you want your biology waiting for the future?</li>
       <li><a href="#a6" data-tab="a6"><b>Angle 6. Rage bait:</b></a> We just built a startup you might not need for 20 years. Let people argue about whether it&#x27;s insane. You don&#x27;t know what future medicine will need until that future arrives.</li>
@@ -324,7 +324,7 @@ If medical technology hits an inflection point in the 2030s, the only people who
   <div class="ahead">
     <span class="k">Angle 3</span>
     <h2>The Founder Story: She Spent Years Figuring Out What We Can Do With Cells</h2>
-    <p class="one">Physics at Harvard → laser biophysics → losing her grandmother → cellular reprogramming → building Cellino → founding Reservoir.</p>
+    <p class="one">Physics at Harvard  to  laser biophysics  to  losing her grandmother  to  cellular reprogramming  to  building Cellino  to  founding Reservoir.</p>
     <p class="who"><b>Who to target:</b> Biotech founders, deep-tech investors, Harvard alumni, women in STEM, personalized medicine builders.</p>
     <div class="blk">
       <h4>The Story Arc</h4>
@@ -514,7 +514,7 @@ You just need to freeze the cells that matter.
       <h4>The Industrial Pipeline</h4>
       <p>The individual technologies have existed for years: phlebotomy, ficoll density gradient separation, cryoprotectants, controlled-rate freezing, liquid nitrogen tanks at -196°C. But nobody connected them into a consumer-accessible network.</p>
       <p>The product isn&#x27;t the freezer. The infrastructure pipeline is the product:
-      <b>15-min blood draw → certified cold chain → cell isolation → viability eval → cryopreservation → indefinite storage.</b></p>
+      <b>15-min blood draw  to  certified cold chain  to  cell isolation  to  viability eval  to  cryopreservation  to  indefinite storage.</b></p>
     </div>
   </div>
 

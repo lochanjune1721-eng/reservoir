@@ -3,7 +3,7 @@ new_tab_a9 = """<section class="tab" id="tab-a9" hidden>
     <span class="k">Angle 9</span>
     <h2>This one launch just cooked a $31.9B industry</h2>
     <p class="one">The global longevity market is estimated at $31.9B in 2026.</p>
-    <p class="who"><b>The Contrarian Realization:</b> And a huge amount of the industry is built around one basic idea: Aging happens → figure out how to reverse it. NewLimit just raised $435M at a $3.1B valuation to develop medicines designed to restore youthful function to old cells. Then Reservoir launches with a completely different premise: What if you don't wait until your cells are old? Preserve them now. It doesn't prove the rest of the industry is wrong. But it introduces a brutally simple question that makes the entire category look different: Why spend decades figuring out how to reverse aging if future medicine could instead work with biology preserved before it aged?</p>
+    <p class="who"><b>The Contrarian Realization:</b> And a huge amount of the industry is built around one basic idea: Aging happens  to  figure out how to reverse it. NewLimit just raised $435M at a $3.1B valuation to develop medicines designed to restore youthful function to old cells. Then Reservoir launches with a completely different premise: What if you don't wait until your cells are old? Preserve them now. It doesn't prove the rest of the industry is wrong. But it introduces a brutally simple question that makes the entire category look different: Why spend decades figuring out how to reverse aging if future medicine could instead work with biology preserved before it aged?</p>
 
     <div class="blk">
       <h4>Why this angle</h4>

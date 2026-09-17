@@ -22,7 +22,7 @@ new_tab_a4 = """<section class="tab" id="tab-a4" hidden>
         <li><b>The hooks are fucking insane.</b> “Scientists froze human cells for 20 years and brought them back” is the kind of sentence that makes someone stop scrolling.</li>
         <li><b>The paper becomes the proof.</b> We can show the actual paper, figures, graphs and numbers instead of making vague claims about the future of medicine.</li>
         <li><b>The content naturally gets people thinking about their own biology.</b> If cells can be preserved for decades, the obvious next question is: why can't I preserve mine?</li>
-        <li><b>That's where Reservoir enters naturally.</b> The research demonstrates the underlying possibility. Reservoir makes it personal: your blood → your cells → cryogenic storage → your biological starting material for the future.</li>
+        <li><b>That's where Reservoir enters naturally.</b> The research demonstrates the underlying possibility. Reservoir makes it personal: your blood  to  your cells  to  cryogenic storage  to  your biological starting material for the future.</li>
         <li><b>We can make this an endless series.</b> Every insane paper gives us another “holy shit” moment without turning every post into the same Reservoir advertisement.</li>
       </ol>
     </div>
@@ -347,7 +347,7 @@ Reservoir lets you preserve yours.
 
 15 minutes.
 
-Your biology today → stored for the medicine of tomorrow.</div>
+Your biology today  to  stored for the medicine of tomorrow.</div>
       
       <!-- RESEARCH PAPER IMAGE ATTACHMENT -->
       <div class="post-media" style="margin:12px 0 8px; border-radius:14px; overflow:hidden; border:1px solid var(--line2); max-width:520px; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.06);">
