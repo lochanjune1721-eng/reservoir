@@ -225,27 +225,27 @@ she went:
 
 physics
 
-↓
+to
 
 lasers
 
-↓
+to
 
 biology
 
-↓
+to
 
 cell reprogramming
 
-↓
+to
 
 AI + autonomous cell manufacturing
 
-↓
+to
 
 personalized medicine
 
-↓
+to
 
 cell preservation
 
