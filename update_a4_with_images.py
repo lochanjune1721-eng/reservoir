@@ -1,12 +1,12 @@
 papers = {
     1: ("/paper_organogenesis.png", "Preservation of stem cells - Organogenesis"),
     2: ("/paper_stem_cell_storage.png", "Cryogenic microcarrier-assisted stem cell storage - Stem Cell Research & Therapy"),
-    3: ("/paper_nature_biotech.png", "Preservation of mammalian cells — learning nature's tricks - Nature Biotechnology"),
+    3: ("/paper_nature_biotech.png", "Preservation of mammalian cells - learning nature's tricks - Nature Biotechnology"),
     4: ("/paper_organogenesis.png", "Preservation of stem cells - Organogenesis"),
-    5: ("/paper_nature_biotech.png", "Preservation of mammalian cells — learning nature's tricks - Nature Biotechnology"),
+    5: ("/paper_nature_biotech.png", "Preservation of mammalian cells - learning nature's tricks - Nature Biotechnology"),
     6: ("/paper_stem_cell_storage.png", "Cryogenic microcarrier-assisted stem cell storage - Stem Cell Research & Therapy"),
     7: ("/paper_organogenesis.png", "Preservation of stem cells - Organogenesis"),
-    8: ("/paper_nature_biotech.png", "Preservation of mammalian cells — learning nature's tricks - Nature Biotechnology")
+    8: ("/paper_nature_biotech.png", "Preservation of mammalian cells - learning nature's tricks - Nature Biotechnology")
 }
 
 new_tab_a4 = """<section class="tab" id="tab-a4" hidden>
@@ -150,7 +150,7 @@ Keep them for the future.</div>
       
       <!-- RESEARCH PAPER IMAGE ATTACHMENT -->
       <div class="post-media" style="margin:12px 0 8px; border-radius:14px; overflow:hidden; border:1px solid var(--line2); max-width:520px; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.06);">
-        <img src="/paper_nature_biotech.png" alt="Preservation of mammalian cells — learning nature's tricks - Nature Biotechnology" style="width:100%; height:auto; max-height:460px; object-fit:contain; background:#fff; display:block;">
+        <img src="/paper_nature_biotech.png" alt="Preservation of mammalian cells - learning nature's tricks - Nature Biotechnology" style="width:100%; height:auto; max-height:460px; object-fit:contain; background:#fff; display:block;">
       </div>
 
       <div class="acts">
@@ -232,7 +232,7 @@ Keep them for whatever medicine looks like tomorrow.</div>
       
       <!-- RESEARCH PAPER IMAGE ATTACHMENT -->
       <div class="post-media" style="margin:12px 0 8px; border-radius:14px; overflow:hidden; border:1px solid var(--line2); max-width:520px; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.06);">
-        <img src="/paper_nature_biotech.png" alt="Preservation of mammalian cells — learning nature's tricks - Nature Biotechnology" style="width:100%; height:auto; max-height:460px; object-fit:contain; background:#fff; display:block;">
+        <img src="/paper_nature_biotech.png" alt="Preservation of mammalian cells - learning nature's tricks - Nature Biotechnology" style="width:100%; height:auto; max-height:460px; object-fit:contain; background:#fff; display:block;">
       </div>
 
       <div class="acts">
@@ -351,7 +351,7 @@ Your biology today → stored for the medicine of tomorrow.</div>
       
       <!-- RESEARCH PAPER IMAGE ATTACHMENT -->
       <div class="post-media" style="margin:12px 0 8px; border-radius:14px; overflow:hidden; border:1px solid var(--line2); max-width:520px; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,0.06);">
-        <img src="/paper_nature_biotech.png" alt="Preservation of mammalian cells — learning nature's tricks - Nature Biotechnology" style="width:100%; height:auto; max-height:460px; object-fit:contain; background:#fff; display:block;">
+        <img src="/paper_nature_biotech.png" alt="Preservation of mammalian cells - learning nature's tricks - Nature Biotechnology" style="width:100%; height:auto; max-height:460px; object-fit:contain; background:#fff; display:block;">
       </div>
 
       <div class="acts">

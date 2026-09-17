@@ -350,7 +350,7 @@ You can have the best biological manufacturing on Earth, but if you don&#x27;t h
 That&#x27;s why we founded @reservoir_bio.
 
 Before we can use the medicines of tomorrow, we have to save the biology of today.</div>
-      <div class="note"><b>Why this works:</b> Establishes domain authority. Nabiha isn&#x27;t an influencer selling wellness—she is a Harvard-trained laser biophysicist solving the real manufacturing bottleneck of cell therapy.</div>
+      <div class="note"><b>Why this works:</b> Establishes domain authority. Nabiha isn&#x27;t an influencer selling wellness - she is a Harvard-trained laser biophysicist solving the real manufacturing bottleneck of cell therapy.</div>
     </div>
   </article>
 </section>
@@ -475,7 +475,7 @@ Then it might be the only startup that mattered.</div>
     <div class="blk">
       <h4>The Sci-Fi Bridge</h4>
       <p>For decades, Hollywood put astronauts into cryosleep pods so their bodies could traverse interstellar voids and arrive in a radically different future without aging. (Smithsonian Magazine analysis on cryosleep plausibility).</p>
-      <p>Reservoir flips the trope: We are not freezing your entire body to cross space. We are freezing your critical cellular biology to cross time—letting your 25-year-old immune cells meet the medicines of 2050.</p>
+      <p>Reservoir flips the trope: We are not freezing your entire body to cross space. We are freezing your critical cellular biology to cross time - letting your 25-year-old immune cells meet the medicines of 2050.</p>
     </div>
   </div>
 

@@ -1,6 +1,6 @@
 # Reservoir Launch Brief
 
-Cultural narrative map and launch brief for **Reservoir**—building the consumer infrastructure for human cellular preservation.
+Cultural narrative map and launch brief for **Reservoir** - building the consumer infrastructure for human cellular preservation.
 
 ## 🚀 Live Access
 Open in your browser:

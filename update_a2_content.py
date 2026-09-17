@@ -3,7 +3,7 @@ new_tab_a2 = """<section class="tab" id="tab-a2" hidden>
     <span class="k">Angle 2</span>
     <h2>The insane shit billionaires are doing</h2>
     <p class="one">The content is a series of increasingly insane stories about billionaires, presidents, founders and athletes preparing for a radically different future.</p>
-    <p class="who"><b>The Reservoir Connection:</b> It is not &quot;look, they all use Reservoir.&quot; It is: these people are spending extraordinary amounts of money preparing for the future of human biology, and now one piece of that future—preserving your own cells—is available to everyone.</p>
+    <p class="who"><b>The Reservoir Connection:</b> It is not &quot;look, they all use Reservoir.&quot; It is: these people are spending extraordinary amounts of money preparing for the future of human biology, and now one piece of that future - preserving your own cells - is available to everyone.</p>
 
     <div class="blk">
       <h4>Why this angle</h4>
