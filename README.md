@@ -20,5 +20,5 @@ Open in your browser:
 8. **Science Fiction (`#a7`)**: *Passengers*, *Alien*, and *2001: A Space Odyssey* biological time travel at the cellular scale.
 9. **Infrastructure (`#a8`)**: ASML for biology: 15-min blood draw to cold chain to isolation to cryogenic banking.
 10. **Anti-Aging Startups (`#a9`)**: Rejuvenation vs preservation: why try to fix 70-year-old cells when you can keep 30-year-old cells young?
-11. **About (`#about`)**: Executive narrative Q&A addressing the core angle, alternative framings, audience debate, and launch roll-out.
+11. **Questions (`#questions`)**: Executive narrative Q&A addressing the core angle, alternative framings, audience debate, and launch roll-out.
 
