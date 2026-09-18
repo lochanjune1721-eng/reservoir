@@ -1,13 +1,9 @@
-papers = {
-    1: ("/paper_organogenesis.png", "Preservation of stem cells - Organogenesis"),
-    2: ("/paper_stem_cell_storage.png", "Cryogenic microcarrier-assisted stem cell storage - Stem Cell Research & Therapy"),
-    3: ("/paper_nature_biotech.png", "Preservation of mammalian cells - learning nature's tricks - Nature Biotechnology"),
-    4: ("/paper_organogenesis.png", "Preservation of stem cells - Organogenesis"),
-    5: ("/paper_nature_biotech.png", "Preservation of mammalian cells - learning nature's tricks - Nature Biotechnology"),
-    6: ("/paper_stem_cell_storage.png", "Cryogenic microcarrier-assisted stem cell storage - Stem Cell Research & Therapy"),
-    7: ("/paper_organogenesis.png", "Preservation of stem cells - Organogenesis"),
-    8: ("/paper_nature_biotech.png", "Preservation of mammalian cells - learning nature's tricks - Nature Biotechnology")
-}
+with open("update_a4_research.py", "r", encoding="utf-8") as f:
+    code = f.read()
+
+# Execute update_a4_research logic
+import update_a4_research
+
 
 new_tab_a4 = """<section class="tab" id="tab-a4" hidden>
   <div class="ahead">
